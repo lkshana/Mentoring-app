@@ -60,10 +60,8 @@ A comprehensive web application for managing student-mentor relationships, proje
 mentoring-portal/
 ├── backend/
 │   ├── api/
-│   │   ├── competitions/     # Competition management
-│   │   ├── mentoring/        # Project and mentoring features
-│   │   ├── portfolio/        # Student achievements
-│   │   └── user/            # Authentication and profiles
+│   │  ├── mentoring/        # Project and mentoring features
+│   │  └── user/            # Authentication and profiles
 │   ├── config/              # Database configuration
 │   ├── constants/           # Application constants
 │   ├── middleware/          # Authentication & authorization
@@ -292,8 +290,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Deployment Guide](docs/deployment.md)
 
 ### Contact
-- **Project Maintainer**: [Your Name]
-- **Email**: [your.email@domain.com]
+- **Project Maintainer**: Lakshana Rajendran
+- **Email**: lakshanarajendran@gmail.com
 - **Issues**: [GitHub Issues](link-to-issues)
 
 ## 🔄 Changelog
@@ -301,7 +299,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Version 1.0.0
 - Initial release
 - Core mentoring functionality
-- Competition management
 - User authentication and authorization
 - Responsive web interface
 
